@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">DSC Murang\'a</string>
+    <string name="name">DSC MURANGA</string>
+    <string name="mission">MISSION: \nEmpower and mentor young techies</string>
+    <string name="vision">VISION: \nPositively impact and solve problems in our community using tech</string>
+    <string name="contacts">
+        CONTACT DETAILS: \n
+        Phone No: 0727348004\n
+        Email: dscmuranga@gmail.com\n
+         Location: School ICT Hub\n
+        Operation: Every Tuesday 5-6PM
+
+    </string>
+    <string name="about">
+        ABOUT: \n
+        This is a student community built for those interested in Technology,Development and Design.
+        We are also aimed help our members Network with each other and even other google developers.
+        Registration take place every Monday from 5-6 PM in the ICT Hub.
+    </string>
+</resources>
